@@ -34,12 +34,14 @@ This project lists the various exercises that can be done to learn the scripting
   - capture the return code to li_rc 
   - based on value of li_rc display "copy failed" or "copy is a Success"
 ---
-[Exercise 7 : Run Other Scripts from Your Script](#ex-7) :  (script names : demoScript07.run_other_scripts.01.sh, demoScript07.run_other_scripts.02.sh)
+[Exercise 7 : Run Other Scripts from Your Script, exit](#ex-7) :  (script names : demoScript07.run_other_scripts.01.sh, demoScript07.run_other_scripts.02.sh)
 - Create Script to
-  - call Script from this Exercise (#ex-1)
+  - call Script from [exercise 1](#ex-1)
   - capture the return code
   - display the return code
+  - use the return code to determine exit return code of your script
 - Create Script to
-  - call Script from this Exercise (#ex-6)
+  - call Script from [exercise 6](#ex-6)
   - capture the return code
   - display the return code
+  - use the return code to determine exit return code of your script
