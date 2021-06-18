@@ -1,5 +1,4 @@
-#Learn Unix Scripting Basics via Exercises
-
+# Learn Unix Scripting Basics via Exercises
 
 ---
 
@@ -32,5 +31,5 @@ This project lists the various exercises that can be done to learn the scripting
   - create dummy file /tmp/file04.EhB using touch
   - change permissions so that /tmp/file04.EhB is Readable but not writeable
   - copy data from /tmp/file04.EhB to /tmp/file04.EhB
-  - capture the return code to li_rc
-  based on value of li_rc display "copy failed" or "copy is a Success"
+  - capture the return code to li_rc 
+  - based on value of li_rc display "copy failed" or "copy is a Success"
