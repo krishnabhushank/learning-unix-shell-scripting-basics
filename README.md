@@ -1,7 +1,4 @@
 # Learn Unix Scripting Basics via Exercises
-
----
-
 This project lists the various exercises that can be done to learn the scripting basics
 
 ---
